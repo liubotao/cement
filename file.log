@@ -1,0 +1,4 @@
+2018-11-20 23:32:05,135 (INFO) myapp : This is an info message
+2018-11-20 23:32:05,135 (WARNING) myapp : This is an warning message
+2018-11-20 23:32:05,136 (ERROR) myapp : This is an error message
+2018-11-20 23:32:05,136 (CRITICAL) myapp : This is a fatal message
